@@ -1,0 +1,49 @@
+/*selector global css para probar que funciona*/
+
+div {
+    border: solid 2px blue;
+    height: 500px;
+}
+
+header{
+    border: solid 2px white;
+}
+
+nav{
+   /* border: solid 2px blue;*/
+}
+
+
+a{
+    /*border: solid 2px greenyellow;*/
+    color: black;
+    text-decoration: none;
+}
+
+h1{
+    text-align: center;
+    font-size: 60px;
+    color: chartreuse;
+}
+
+/*selector de clases importante poner el punto!!!*/
+.parrafo_uno{
+    font-size: 10px;
+}
+
+.parrafo_dos{
+    font-size: 20px;
+    margin: 40px;
+    padding: 30px;
+}
+
+.playeras{
+    width: 100px; 
+    height: 100px;
+}
+
+.button_container{
+
+   /* border: solid 1px;*/
+    padding-left: 150px ;
+}
