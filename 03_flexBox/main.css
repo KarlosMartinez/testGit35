@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+}
+
+.padre{
+    border: solid 2px black;
+    height: 300vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+   /* align-items: center;
+    justify-content: space-around;*/
+   /* flex-direction: column-reverse;*/
+}
+
+.hijo{
+    border: solid 2px goldenrod;
+    height: 10%;
+    width: 7.4%;
+}
+
+
+.hija{
+
+    border: solid 2px palevioletred;
+    height: 100px;
+    width: 100px;
+}

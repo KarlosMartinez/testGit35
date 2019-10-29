@@ -1,0 +1,57 @@
+/*.links{
+    text-align: right;
+    
+}*/
+
+.img_inicio{
+    display: inline;
+    margin-top: 5px;
+    width: 25px; 
+    height: 25px;
+    /*padding-left: 1250px;*/
+    
+}
+.cuadricula{
+    display: inline;
+    
+    width: 25px; 
+    height: 25px;
+
+}
+
+.link_1{
+    margin: 5px;
+    color: black;
+    text-decoration: none;
+    padding-left: 1050px;
+
+}
+
+.link_2{
+    margin: 5px;
+    color: black;
+    text-decoration: none;
+  
+  
+}
+
+.img1{
+    
+    padding-left: 550px;
+
+}
+
+input{
+    margin: 10px;
+    padding: 6px;
+    
+  margin-left: 400px;
+    padding-left: 400px;
+}
+
+.buttons{
+    margin: 20px;
+
+    padding-left: 550px;
+
+}

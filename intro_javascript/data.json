@@ -1,0 +1,14 @@
+{
+    
+        "nombre": "Carlos",
+        "direccion": "Edo Mex",
+        "telefono": "5542871612",
+        "email": "karlos-martinez@hotmail.com",
+        "edad": "31",
+        "trabajos": ["dev.f", "Developer", "etc"],
+        "mascotas ": { "perrito" : "Salchicha",
+        "gatito" : "angora",
+        "pez" : "dorado"}
+    
+    
+}

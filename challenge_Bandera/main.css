@@ -1,0 +1,49 @@
+.bandera{
+    border: solid 2px black;
+
+    height: 200px;
+    width: 300px;
+    display: flex;
+    justify-content:space-around;
+    background-color: blue
+
+}
+
+.izq{
+    border: solid 1px black;
+    background-color: white;
+    height: 35%;
+    width: 20%
+}
+.sup{
+    border: solid 1px red;
+    background-color: red;
+    height: 65%;
+    width: 65%
+}
+
+.der{
+    border: solid 1px black;
+    background-color: white;
+    height: 35%;
+    width: 60%;
+    
+}
+
+.d_sup{
+    border: solid 1px red;
+    background-color: red;
+    height: 65%;
+   
+    justify-content: flex-end;
+}
+
+.inf{
+    border: solid 1px white;
+  
+    height: 35%;
+    width: 20%
+    
+
+
+}
