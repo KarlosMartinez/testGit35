@@ -20,7 +20,7 @@ for(let i = -763; i<=15; i = i + 3){
 console.log(i);
 }
 */
-
+/*
 for (let i = 1; i<=100;i++){
     if (i % 3 === 0 && i % 5 === 0  ){
         console.log(i + "fizzBuzz");
@@ -32,6 +32,13 @@ for (let i = 1; i<=100;i++){
         console.log(i);
     }
     } 
-
+*/
 
     //imprimir en console tablas del 1*1 hasta el 10*10
+
+    for (let i = 1;i<=10;i++){
+        console.log(i);
+            for (let z = 1; z<=10; z++){
+              console.log(i +"*" +z+"="+z*i);
+            }   
+    }
