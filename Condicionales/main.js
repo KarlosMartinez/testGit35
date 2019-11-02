@@ -79,7 +79,7 @@ if(usuario_1 === "piedra" && usuario_2 === "papel"){
 }else{
     console.log("Comando no valido")
 }
-    */
+*/
 
  let pass = prompt("Introduce la Contraseña");
  
