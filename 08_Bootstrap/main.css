@@ -1,0 +1,15 @@
+
+.customForm{
+    border: solid 1px rgb(16, 215, 241);
+    width: 35%;
+}
+
+
+.custom_carousel{
+    /*border: solid 3px blue;*/
+    width: 50%;
+}
+.img{
+    height: 400px;
+    object-fit: cover;
+}
